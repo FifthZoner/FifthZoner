@@ -1,5 +1,5 @@
-Hi, I’m @FifthZoner
-Welcome to my profile traveler, have a nice day!
+- Hi, I’m @FifthZoner
+- Welcome to my profile, traveler, have a nice day!
 
 <!---
 FifthZoner/FifthZoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
