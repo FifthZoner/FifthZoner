@@ -1,5 +1,5 @@
 - Hi, I’m @FifthZoner
-- Welcome to my profile, I am just a humble programmer so not much to see here but feel free to check out my creations.
+- Welcome to my profile, Here you can find the abominable code I write! Please, help yourself to one of the many nightmares in my repos.
 
 <!---
 FifthZoner/FifthZoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
