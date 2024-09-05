@@ -1,5 +1,5 @@
 ### Hi, I’m @FifthZoner, also known as Szymon Jabłoński
-#### Welcome to my profile, Here you can my attempts at creating things using a keyboard.
+#### Welcome to my profile, Here you can see my attempts at creating things using a keyboard.
 
 I recommend checking out my newest work, such as dodo-lang, as the newer a project is, the better it's written. Of course if you don't mind encountering unspeakable coding horrors you're welcome to search my older work.
 
